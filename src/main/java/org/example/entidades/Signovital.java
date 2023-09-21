@@ -4,7 +4,6 @@ import java.time.LocalDateTime;
 
 public class Signovital {
 
-
     private Integer id;
     private String nombre;
     private Integer unidadMedida;
